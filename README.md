@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808.gif" width="400px" align="right"/>
+<img src="https://tenor.com/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808.gif" width="220px" align="right"/>
 
 ### 👋 Olá, meu nome é João Carlos!
 
