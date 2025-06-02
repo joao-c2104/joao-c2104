@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149.gif" width="300px" align="right"/>
+<img src="https://tenor.com/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808.gif" width="400px" align="right"/>
 
 ### 👋 Olá, meu nome é João Carlos!
 
@@ -21,10 +21,10 @@
 ## 🛠️ Ferramentas que utilizo:
 
 <p align="left">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-<img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS code"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
@@ -46,4 +46,5 @@
   <a href="https://www.linkedin.com/in/joão-carlos-vasconcelos-de-gusmão-759996368/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
 </p>
