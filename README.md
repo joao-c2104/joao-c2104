@@ -2,7 +2,7 @@
 
 ### 👋 Olá, meu nome é João Carlos!
 
-<p align="left">Sou um entusiasta da tecnologia apaixonado por desenvolvimento. Trabalho principalmente com back-end em Python, mas também tenho noções de front-end com HTML, CSS e JavaScript. Estou, frequentemente, estudando essas linguagens para melhorar as minhas habilidades. Meu objetivo atual é entrar no mercado como desenvolvedor back-end e contribuir em projetos reais.
+<p align="left">Sou um entusiasta da tecnologia apaixonado por desenvolvimento. Trabalho principalmente com back-end em C, mas também tenho noções de Python, java e front-end com HTML, CSS e JavaScript. Estou, frequentemente, estudando essas linguagens para melhorar as minhas habilidades. Meu objetivo atual é entrar no mercado como desenvolvedor back-end e contribuir em projetos reais.
 </p>
 
 ---
